@@ -1,1 +1,1 @@
-# hello-world
+I would like to get an excellent grade or at the very least pass this course. I also hope to improve my skills in HTML and CSS and to become better at programming. Furthermore, I wish to better understand how different technologies work together to create beautiful websites.
